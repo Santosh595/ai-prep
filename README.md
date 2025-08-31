@@ -34,11 +34,11 @@ Frontend: React (Vite), TailwindCSS
 
 Backend: Node.js, Express
 
-Database: (MongoDB / Firebase, depending on your setup)
+Database: (MongoDB)
 
-Authentication: (Firebase Auth or JWT)
+Authentication: (JWT)
 
-AI API: OpenAI (or whichever service is used)
+AI API: OpenAI (Open Router)
 
 Getting Started
 
